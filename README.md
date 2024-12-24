@@ -13,9 +13,8 @@ This repository contains the **Electricity Management System (EMS)** project, de
 - [Technologies Used](#technologies-used)
 - [Installation and Setup](#installation-and-setup)
   - [Backend (Spring Boot)](#backend-spring-boot)
-  - [Frontend (Angular)](#frontend-angular)
-- [Usage](#usage)
-- [Screenshots](#screenshots) *(Optional, add screenshots here if available)*
+
+
 
 ---
 
